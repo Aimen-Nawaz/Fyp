@@ -1,7 +1,7 @@
 [project]
 name = "medicine_project"
 version = "1.0.0"
-requires-python = "3.11"
+requires-python = "=3.11"
 description = "Medicine name reconstruction API"
 dependencies = [
     "tensorflow==2.15.0",
