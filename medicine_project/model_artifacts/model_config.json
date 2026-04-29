@@ -1,0 +1,6 @@
+{
+  "max_len": 21,
+  "vocab_size": 28,
+  "pad_idx": 1,
+  "eos_idx": 0
+}
